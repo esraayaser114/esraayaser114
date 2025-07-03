@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f2b00b2c6.gif" width="900px" alt="Data Science Banner"/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="450px" hieght = ""450px"" alt="Developer Banner"/>
 </div>
 <br>
 
@@ -150,7 +150,7 @@ Here are a few projects I'm proud of. Check out my repositories for more!
 </table>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/barh5cDSa5kYm06G6n/giphy.gif" alt="Coding GIF" width="400"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="400"/>
 </div>
 
 <div align="center">
